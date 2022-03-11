@@ -1,0 +1,19 @@
+.collapsible-outer{
+    margin:0px;
+}
+.collapse{
+    margin:0px;
+}
+.title{
+    background-color: aqua;
+    color: brown;
+}
+.description{
+    background-color: antiquewhite;
+}
+.description-show{
+    display: block;
+}
+.description-hide{
+    display: none;
+}
